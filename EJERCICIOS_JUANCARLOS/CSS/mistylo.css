@@ -1,0 +1,102 @@
+button {
+    border-width: 3px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Tahoma;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(40, 116, 187);
+    border-radius: 5px;
+    border: 3px rgb(8, 52, 88);
+    padding: 13px;
+  }
+  p{
+      
+    color: #000000;
+
+    font-size: 20px;
+    font-style: initial;
+    margin: 5px auto;
+}
+
+    body{
+background-image: url("fondo\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    a{
+        
+        text-decoration: none;
+        color: rgb(2, 2, 2);
+      }
+
+h1{
+    color: #030303;
+    font-style: normal;
+    text-align: center;
+}
+.menu{
+    overflow: hidden;
+    position: fixed;
+    background-color: rgba(15, 59, 116, 0.438);
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.menu a{
+    font-family: Raleway;
+    font-size: large;
+    text-decoration: none;
+    padding: 500 px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 20px ;
+    color: #1a0650;
+}
+.menu a:hover{
+    background: rgb(56, 12, 114);
+    color: rgb(3, 3, 3);
+    font-weight: 900;
+
+}
+.cuerpo{
+    margin-top: 50px;
+    padding: 10px;
+    font-family: raleway;
+}
+.datos{     
+    background-image: url("perfil.jpg");    
+     background-size: cover;    
+     background-repeat: no-repeat;    
+     height: 500px;   
+     position: relative; 
+     margin: 3%;
+    }
+ .descripcion{     
+    text-align: center;    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+    color: white; 
+    position: absolute;     
+    top: 30%;     left: 25%;     
+    text-transform: (-50%,-50%);
+}
+
+    h2{
+        color: #000000;
+    }
+    .volver{
+        font-family: Raleway;
+        font-size: large;
+        text-decoration: none;
+        padding: 500 px;
+        padding-top: 100px;
+        padding-bottom: 20px;
+        padding-left: 100px;
+        padding-right: 20px ;
+        color: #1a0650;
+    }
